@@ -1,4 +1,6 @@
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/iamkhattar/iamkhattar/master/github.gif" />
+<div align="center">
+    <img alt="GIF" src="https://raw.githubusercontent.com/iamkhattar/iamkhattar/master/landing.gif" />
+</div>
 
 #
 
