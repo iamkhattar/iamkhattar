@@ -2,9 +2,9 @@
     <img alt="GIF" src="https://raw.githubusercontent.com/iamkhattar/iamkhattar/master/iamkhattar.gif" />
 </div>
 
-<div style="text-align:justify">
-    <p style="text-align:justify">From an early age, I’ve always been deeply interested in computing. It was my father who introduced me to the computer systems that first sparked this interest. I can always remember the feeling of wanting to know just how computers worked, why they worked and what else they could do. This interest never left me, only growing more profound and passionate with every new discovery I made. Computers have left me fascinated with just how much power yet mystery they hold.</p>
-    <p style="text-align:justify">This interest in Computing led me to get a degree in Computer Science. I recently graduated from The University of Strathclyde with a First-Class Honours in Computer Science. The degree allowed me to get an insight into different areas of Computing. Not only did I learn about various programming languages, libraries and frameworks but also good practices to write clean readable code.</p>
+<div style="text-align: justify;">
+    <p style="text-align: justify;">From an early age, I’ve always been deeply interested in computing. It was my father who introduced me to the computer systems that first sparked this interest. I can always remember the feeling of wanting to know just how computers worked, why they worked and what else they could do. This interest never left me, only growing more profound and passionate with every new discovery I made. Computers have left me fascinated with just how much power yet mystery they hold.</p>
+    <p style="text-align: justify;">This interest in Computing led me to get a degree in Computer Science. I recently graduated from The University of Strathclyde with a First-Class Honours in Computer Science. The degree allowed me to get an insight into different areas of Computing. Not only did I learn about various programming languages, libraries and frameworks but also good practices to write clean readable code.</p>
 </div>
 
 <div align="center">
