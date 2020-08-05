@@ -9,7 +9,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/iamkhattar/"><img src="https://img.shields.io/badge/-iamkhattar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamkhattar/"></a>
-    <a href="https://iamkhattar.github.io/"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=Google+Chrome&logoColor=white&link=https://www.github.com/iamkhattar/"></a>
+    <a href="https://shivamkhattar.com/"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=Google+Chrome&logoColor=white&link=https://www.github.com/iamkhattar/"></a>
     <a href="mailto:shivamkhattar1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shivamkhattar1@gmail.com"></a>
     <a href="https://www.github.com/iamkhattar/"><img src="https://img.shields.io/badge/-iamkhattar-black?style=for-the-badge&logo=Github&logoColor=white&link=https://www.github.com/iamkhattar/"></a>
 </div>
