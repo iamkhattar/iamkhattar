@@ -3,8 +3,20 @@
 </div>
 
 <div align="justify">
-    <p align="justify">From an early age, I’ve always been deeply interested in computing. It was my father who introduced me to the computer systems that first sparked this interest. I can always remember the feeling of wanting to know just how computers worked, why they worked and what else they could do. This interest never left me, only growing more profound and passionate with every new discovery I made. Computers have left me fascinated with just how much power yet mystery they hold.</p>
-    <p align="justify">This interest in Computing led me to get a degree in Computer Science. I recently graduated from The University of Strathclyde with a First-Class Honours in Computer Science. The degree allowed me to get an insight into different areas of Computing. Not only did I learn about various programming languages, libraries and frameworks but also good practices to write clean readable code.</p>
+    <p align="justify">
+        From an early age, I’ve always been deeply interested in computing. 
+        It was my father who introduced me to the computer systems that first sparked this interest. 
+        I can always remember the feeling of wanting to know just how computers worked, why they worked and what else they could do. 
+        This interest never left me, only growing more profound and passionate with every new discovery I made. 
+        Computers have left me fascinated with just how much power yet mystery they hold.
+    </p>
+    <p align="justify">
+        This interest in Computing led me to get a degree in Computer Science from The University of Strathclyde, Glasgow. 
+        I graduated from University in 2020 with First Class Honours and went on to join Barclays as a Graduate Software Developer. Currently, 
+        I work as a Java Reference Architecture Engineer at Barclays where I build internal Java Libraries and Reference Implementations so that other developers do not need to reinvent the wheel.
+        I have a keen interest in Backend Development, Cloud Based Architectures and CI/CD Pipelines.
+        I am experienced with all stages of the Software Development Lifecycle for Web Based Applications and well versed in numerous technologies including Java, Groovy, Relational Databases, AWS, Openshift, Docker, and Jenkins.
+    </p>
 </div>
 
 <div align="center">
