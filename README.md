@@ -4,4 +4,4 @@ I am a Java Reference Architecture Engineer at Barclays. I am working towards im
 
 - 🤔 I'm super passionate about Java and I am currently developing cloud-native Java applications.
 - 🌍 View my personal website: [shivamkhattar.com](https://shivamkhattar.com)
-- 📞 Reach out to me on [Linkedin](https://www.linkedin.com/in/iamkhattar/)
+- 📞 Reach out to me on [LinkedIn](https://www.linkedin.com/in/iamkhattar/)
